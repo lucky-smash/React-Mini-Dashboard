@@ -6,8 +6,7 @@ This project demonstrates component-based architecture, state management using h
 ---
 
 ## 🔗 Live Demo
-(Add your live project link here if deployed)
-git push -u origin master
+https://react-mini-dashboard-gray.vercel.app/
 ---
 
 ## 📌 Features
