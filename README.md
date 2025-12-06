@@ -1,16 +1,37 @@
-# React + Vite
+# React Mini Dashboard 🚀
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A modern, responsive **React Mini Dashboard** built using **React.js, Tailwind CSS, and Vite**.  
+This project demonstrates component-based architecture, state management using hooks, and a clean UI layout with a collapsible sidebar.
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 🔗 Live Demo
+(Add your live project link here if deployed)
 
-## React Compiler
+---
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+## 📌 Features
 
-## Expanding the ESLint configuration
+- ✅ Responsive dashboard layout  
+- ✅ Collapsible sidebar with toggle animation  
+- ✅ Reusable React components  
+- ✅ Clean Navbar with search & icons  
+- ✅ Cards-based dashboard UI  
+- ✅ Built using modern React (Hooks)  
+- ✅ Styled with Tailwind CSS  
+- ✅ Fast development using Vite  
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+---
+
+## 🛠️ Tech Stack
+
+- **Frontend:** React.js
+- **Styling:** Tailwind CSS
+- **Build Tool:** Vite
+- **Icons:** React Icons
+- **Language:** JavaScript
+
+---
+
+## 📂 Folder Structure
+
